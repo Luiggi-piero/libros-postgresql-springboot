@@ -2,6 +2,8 @@
 Buscador de libros usando la API Gutendex que contiene un catálogo de libros electrónicos gratuito
 
 
+https://github.com/user-attachments/assets/2ee715af-ade9-4c33-a5ae-923214cac96c
+
 
 ## Funcionalidades
 - [x] Buscar libro por título
@@ -9,6 +11,12 @@ Buscador de libros usando la API Gutendex que contiene un catálogo de libros el
 - [x] Listar autores registrados
 - [x] Listar autores vivos en un determinado año
 - [x] Listar libros por idioma
+
+</br>
+
+>[!NOTE]
+>* Crea la base de datos libroszod en postgresql
+>* Cambia tus credenciales de acceso a postgresql usando las variabes de entorno, las variables de entorno se usan en application.properties
 
 </br>
 
