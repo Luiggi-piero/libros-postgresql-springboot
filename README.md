@@ -25,3 +25,5 @@ https://github.com/user-attachments/assets/2ee715af-ade9-4c33-a5ae-923214cac96c
 ![sp](https://img.shields.io/badge/SPRINGBOOT-white?style=for-the-badge&logo=spring&logoColor=white&labelColor=%236DB33F)
 </br>
 ![sp](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
+</br>
+![badge literalura](https://github.com/user-attachments/assets/ee4ed44a-447b-4362-8c70-4af72268fb30)
