@@ -6,10 +6,10 @@ https://github.com/user-attachments/assets/2ee715af-ade9-4c33-a5ae-923214cac96c
 
 
 ## Funcionalidades
-- [x] Buscar libro por título
-- [x] Listar libros registrados
-- [x] Listar autores registrados
-- [x] Listar autores vivos en un determinado año
+- [x] Buscar libro por título y almacenarlos en la bd Postgresql
+- [x] Listar todos los libros registrados en bd
+- [x] Listar todos los autores registrados en bd
+- [x] Listar todos autores vivos en un determinado año
 - [x] Listar libros por idioma
 
 </br>
